@@ -1,3 +1,3 @@
 # DeployBit
-## A remote digital hardware access platform!
-## (Page under construction)
+##  A Remote FPGA Access Platform
+### --- This page is under construction and will be available soon ---
